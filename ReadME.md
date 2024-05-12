@@ -11,6 +11,7 @@ https://github.com/mparlak/Flee/tree/master
 ## MathExpressionEval
 https://matheval.org/math-expression-eval-for-c-sharp/
 
+## Полезные ссылки
 https://stackoverflow.com/questions/53844/how-can-i-evaluate-a-c-sharp-expression-dynamically
 
 https://github.com/codingseb/ExpressionEvaluator
