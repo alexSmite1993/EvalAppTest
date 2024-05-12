@@ -1,3 +1,5 @@
+# Сравнение библиотек парсинга и вычисления строковых математических выражений
+
 https://stackoverflow.com/questions/53844/how-can-i-evaluate-a-c-sharp-expression-dynamically
 
 https://github.com/codingseb/ExpressionEvaluator
